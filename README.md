@@ -1,5 +1,4 @@
-# Oracle: EEG-Based Image Carousel Control using Muse 2
-
+# Oracle: A Non-Invasive Eeg Based Brain Computer Interface For Digital Device Control
 Oracle is a non-invasive Brain-Computer Interface (BCI) project that allows users to control a digital image carousel using two distinct input methods powered by the Muse 2 headset:
 
 - **Motor Imagery (EEG-based)**: Uses left/right motor imagery signals detected from brain activity.
